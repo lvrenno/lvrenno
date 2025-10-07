@@ -2,9 +2,9 @@
  ### Hi 👋 I'm Lucas Rennó
 
 
-- 🌱 I’m currently learning: React.js 
-- 📫 How to reach me: lvrenno@gmail.com
-- 😄 Pronouns: he/him<br>
+- I’m currently learning: React.js 
+- How to reach me: lvrenno@gmail.com
+- Pronouns: he/him<br>
 
 <!-- <div align="center"> 
  <a href="https://github.com/nlperri">
